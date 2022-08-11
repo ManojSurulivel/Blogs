@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+.centerTable {
+  margin: 0px auto;
+}
+
+
+.MuiTypography-colorPrimary {
+  color: #3f51b5;
+  margin-left: 20px;
+}
